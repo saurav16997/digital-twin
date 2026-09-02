@@ -1,0 +1,22 @@
+{
+    "full_name": "Saurav Premkumar",
+    "name": "Saurav",
+    "current_role": "AI Engineer",
+    "location": "United States",
+    "email": "sauravpk97@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sauravpk/",
+    "github": "https://github.com/sauravpk",
+    "specialties": [
+      "Agentic AI and LLM Workflows",
+      "RAG and MCP-based Systems",
+      "AI Applications and Cloud Deployment"
+    ],
+    "years_experience": 5,
+    "education": [
+      {
+        "degree": "M.S. in Information Systems",
+        "institution": "New York University",
+        "year": "2025"
+      }
+    ]
+  }
